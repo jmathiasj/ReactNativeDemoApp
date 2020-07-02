@@ -15,7 +15,7 @@
     "react-native-screens": "1.0.0-alpha.23",
     "react-native-unimodules": "~0.5.4",
     "react-native-web": "^0.11.7",
-    "yarn": "^1.17.3"
+    "yarn": "^1.22.0"
   },
   "devDependencies": {
     "babel-preset-expo": "^7.0.0"
